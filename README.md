@@ -10,6 +10,7 @@ User Group Plan for 2022
 * Learning by Doing/Teaching
 * Keep it fun by working together to accomplish a task
 * [GCP Certs](https://cloud.google.com/certification#certification_paths) - in acending order of difficulty
+	Learn skills that help us to pass the available certifications
 	*  Cloud Digital Leader
 	*  Associate Cloud Engineer ACE
 	*  Professional Cloud Architect
