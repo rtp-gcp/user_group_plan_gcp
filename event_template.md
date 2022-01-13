@@ -15,6 +15,8 @@ The meeting url is here: https://meet.google.com/yij-pntn-iss
 
 The linkedin group is here https://www.linkedin.com/groups/9107676/
 
+The GDG group is here https://gdg.community.dev/gdg-cloud-rtp/
+
 #GDGCLOUDRTP #GDGCLOUD #USERGROUP #GCP #GCPCLOUD #RTPGCP
 
 ```
@@ -28,4 +30,5 @@ In the case of cloud study jams, use form to request credits.  We should not exp
 
 
 # Complete Post Even Survey
+
 If we miss one event survey we don't qualify for prizes
