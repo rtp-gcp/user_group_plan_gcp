@@ -7,12 +7,10 @@
 
 This sunday at 11:00am EST GDG Cloud RTP / rtp-gcp.org will have a weekly workshop.  The topic of discussion is _________
 
-
-The meeting url is here: https://meet.google.com/yij-pntn-iss
+The the usergroup website is here: https://rtp-gcp.org
 
 -----
-
-The the usergroup website is here: https://rtp-gcp.org
+The meeting url is here: https://meet.google.com/yij-pntn-iss
 
 The slack invite is here: https://join.slack.com/t/rtp-gcp/shared_invite/zt-ei20ib1z-VQuI16Q0GbV_YbRKVUcM2g
 
