@@ -32,6 +32,6 @@ The GDG group is here https://gdg.community.dev/gdg-cloud-rtp/
 In the case of cloud study jams, use form to request credits.  We should not expose the URL.  Use encryption to encrypt this file or use github secrets if its free.
 
 
-# Complete Post Even Survey
+# Complete Post Event Survey
 
 If we miss one event survey we don't qualify for prizes
