@@ -13,7 +13,7 @@ list_docs:
 
 
 gitupdate: clean
-	git add .; git commit -m "update secrets/keys dir"; git push
+	git add .; git commit -m "update secrets/urls dir"; git push
 
 clean:
 	echo "docs: make clean"
