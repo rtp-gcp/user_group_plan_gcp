@@ -24,7 +24,7 @@ clean:
 
 
 encrypt:
-	gpg --output README.md.gpg --encrypt --recipient davisjf@gmail.com README.md
+	gpg --output README.md.gpg --encrypt --recipient davisjf@gmail.com --recipient sedrick@10ronline.net README.md
 
 
 
