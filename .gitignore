@@ -104,3 +104,7 @@ dist
 .tern-port
 *.backup
 
+# JFD
+*.backup
+*.BACKUP
+*.swp
