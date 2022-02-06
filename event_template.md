@@ -5,7 +5,7 @@
 ```
 20220112
 
-This sunday at 11:00am EST GDG Cloud RTP / rtp-gcp.org will have a weekly workshop.  The topic of discussion is _________
+This sunday at 10:00am EST GDG Cloud RTP / rtp-gcp.org will have a weekly workshop.  The topic of discussion is _________
 
 The the usergroup website is here: https://rtp-gcp.org
 
@@ -18,7 +18,7 @@ The linkedin group is here https://www.linkedin.com/groups/9107676/
 
 The GDG group is here https://gdg.community.dev/gdg-cloud-rtp/
 
-#GDGCLOUDRTP #GDGCLOUD #USERGROUP #GCP #GCPCLOUD #RTPGCP
+#GDGCLOUDRTP #GDGCLOUD #USERGROUP #GCP #GCPCLOUD #RTPGCP @RTP-GCP
 
 ```
 
