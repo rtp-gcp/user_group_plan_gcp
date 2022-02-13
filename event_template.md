@@ -24,11 +24,11 @@ The GDG group is here https://gdg.community.dev/gdg-cloud-rtp/
 
 ## Create a community devpost
 
+<a href="https://gdg.community.dev/gdg-cloud-rtp/">here</a>
 
 ## Send form to request credits
 
-In the case of cloud study jams, use form to request credits.  We should not expose the URL.  Use encryption to encrypt this file or use github secrets if its free.
-
+[encrypted](secrets/urls/README.md)
 
 # Complete Post Event Survey
 
