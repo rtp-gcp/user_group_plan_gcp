@@ -3,9 +3,9 @@
 ## Create a linkedin post
 
 ```
-20220112
+20220327
 
-This sunday at 10:00am EDT GDG Cloud RTP / rtp-gcp.org will have a weekly workshop.  The topic of discussion is _________
+This sunday at 10:00am EDT GDG Cloud RTP / rtp-gcp.org will have a weekly workshop.  The topic of discussion is IWD prep day 2
 
 The the usergroup website is here: https://www.rtp-gcp.org
 
@@ -20,7 +20,7 @@ The linkedin group is here https://www.linkedin.com/groups/9107676/
 
 The GDG group is here https://gdg.community.dev/gdg-cloud-rtp/
 
-#GDGCLOUDRTP #GDGCLOUD #USERGROUP #GCP #GCPCLOUD #RTPGCP @RTP-GCP
+#GDGCLOUDRTP #GDGCLOUD #GDG #USERGROUP #GCP #GCPCLOUD #RTPGCP @RTP-GCP #RTP
 
 ```
 
