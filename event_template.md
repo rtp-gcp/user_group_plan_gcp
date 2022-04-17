@@ -3,9 +3,9 @@
 ## Create a linkedin post
 
 ```
-20220327
+20220410
 
-This sunday at 10:00am EDT GDG Cloud RTP / rtp-gcp.org will have a weekly workshop.  The topic of discussion is IWD prep day 2
+Today at 10:00am EDT GDG Cloud RTP / rtp-gcp.org will have a weekly workshop.  The topic of discussion is IWD prep day 5.  We are continuing to go over the tensorflow fashionNIST image classification example which is the basis of the IWD presentation.
 
 The the usergroup website is here: https://www.rtp-gcp.org
 
