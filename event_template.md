@@ -3,22 +3,13 @@
 ## Create a linkedin post
 
 ```
-20220410
+20220424
 
-Today at 10:00am EDT GDG Cloud RTP / rtp-gcp.org will have a weekly workshop.  The topic of discussion is IWD prep day 5.  We are continuing to go over the tensorflow fashionNIST image classification example which is the basis of the IWD presentation.
+Today at 10:00am EDT, GDG Cloud RTP & rtp-gcp.org will have a weekly workshop.  The topic of discussion is IWD prep day r6.  We are continuing the tensorflow fashionNIST image classification example which is the basis of the IWD presentation.
 
-The the usergroup website is here: https://www.rtp-gcp.org
+https://www.rtp-gcp.org/about.html
 
------
 The meeting url is here: https://meet.google.com/yij-pntn-iss
-
-The calendar invite is here: https://calendar.google.com/event?action=TEMPLATE&tmeid=MG5oaWU3OTllMWlsY3V2bTB2MTdvaHNwbjdfMjAyMjAyMjdUMTUwMDAwWiBkYXZpc2pmQG0&tmsrc=davisjf%40gmail.com&scp=ALL
-
-The slack invite is here: https://join.slack.com/t/rtp-gcp/shared_invite/zt-ei20ib1z-VQuI16Q0GbV_YbRKVUcM2g
-
-The linkedin group is here https://www.linkedin.com/groups/9107676/
-
-The GDG group is here https://gdg.community.dev/gdg-cloud-rtp/
 
 #GDGCLOUDRTP #GDGCLOUD #GDG #USERGROUP #GCP #GCPCLOUD #RTPGCP @RTP-GCP #RTP
 
