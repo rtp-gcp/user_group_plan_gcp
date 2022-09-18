@@ -3,13 +3,13 @@
 ## Create a linkedin post
 
 ```
-20220911
+20220918
 
 Today at 10:00am EDT, GDG Cloud RTP & rtp-gcp.org will have a weekly workshop.  
 
 The meeting url is here: https://meet.google.com/yij-pntn-iss
 
-Focus is week two of the Kaggle ML class series.
+Focus is week three of the Kaggle ML class series.
 
 
 #GDGCLOUDRTP #GDGCLOUD #GDG #USERGROUP #GCP #GCPCLOUD #RTPGCP @RTP-GCP #RTP
