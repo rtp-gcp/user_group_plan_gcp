@@ -3,13 +3,14 @@
 ## Create a linkedin post
 
 ```
-20221218
+20220108
 
 Today at 10:00am EDT, GDG Cloud RTP & rtp-gcp.org will have a weekly workshop.  
 
 The meeting url is here: https://meet.google.com/yij-pntn-iss
 
-Continuing tensorflow work.
+
+Working on the icy bridge project for gcp
 
 #GDGCLOUDRTP #GDGCLOUD #GDG #USERGROUP #GCP #GCPCLOUD #RTPGCP @RTP-GCP #RTP
 
