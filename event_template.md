@@ -3,7 +3,7 @@
 ## Create a linkedin post
 
 ```
-20230205
+20230212
 
 Today at 10:00am EDT, GDG Cloud RTP & rtp-gcp.org will have a weekly workshop.  
 
