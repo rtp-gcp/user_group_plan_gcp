@@ -3,7 +3,7 @@
 ## Create a linkedin post
 
 ```
-20230625
+20230709
 
 Today at 10:00am EDT, GDG Cloud RTP & rtp-gcp.org will have a weekly workshop.  
 
@@ -11,7 +11,7 @@ The meeting url is here: https://meet.google.com/yij-pntn-iss
 
 
 Working on the icy bridge project for gcp:
-    appengine + firestore effort
+wrap up on  appengine + firestore effort
 
 #GDGCLOUDRTP #GDGCLOUD #GDG #USERGROUP #GCP #GCPCLOUD #RTPGCP @RTP-GCP #RTP
 
