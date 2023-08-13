@@ -3,15 +3,15 @@
 ## Create a linkedin post
 
 ```
-20230806
+20230813
 
 Today at 10:00am EDT, GDG Cloud RTP & rtp-gcp.org will have a weekly workshop.  
 
 The meeting url is here: https://meet.google.com/yij-pntn-iss
 
 
-Working on the icy bridge project for gcp:
-wrap up on  appengine + firestore effort
+The goal is to learn GenAI.  Current focus is Datacamp class:
+   https://campus.datacamp.com/courses/introduction-to-chatgpt
 
 #GDGCLOUDRTP #GDGCLOUD #GDG #USERGROUP #GCP #GCPCLOUD #RTPGCP @RTP-GCP #RTP
 
