@@ -3,7 +3,7 @@
 ## Create a linkedin post
 
 ```
-20230827
+20230928
 
 Today at 10:00am EDT, GDG Cloud RTP & rtp-gcp.org will have a weekly workshop.  
 
@@ -12,6 +12,8 @@ The meeting url is here: https://meet.google.com/yij-pntn-iss
 
 The goal is to learn GenAI/Prompt Engineering/LLM.  Plan is here:
    https://github.com/rtp-gcp/gcp_icy_bridge/blob/main/genai/plan.md
+
+   current focus is devpost hackathon which uses genAI for fintech. (Show what you know!)
 
 #GDGCLOUDRTP #GDGCLOUD #GDG #USERGROUP #GCP #GCPCLOUD #RTPGCP @RTP-GCP #RTP
 
